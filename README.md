@@ -17,6 +17,7 @@ El proyecto está estructurado en dos partes principales: la priorización de hi
 
 ## Datasets
 
+### Parte 1: Priorización de Hipótesis
 - **`hypotheses_us.csv`**: 
     - **Hypotheses**: Breves descripciones de las hipótesis.
     - **Reach**: Alcance del usuario (escala del 1 al 10).
@@ -26,7 +27,6 @@ El proyecto está estructurado en dos partes principales: la priorización de hi
 
 ### Parte 2: Datos para el Análisis de Test A/B
 Los datasets utilizados son los siguientes:
-
 - **`orders_us.csv`**: 
     - **transactionId**: Identificador de pedido.
     - **visitorId**: Identificador del usuario que realizó el pedido.
@@ -41,11 +41,5 @@ Los datasets utilizados son los siguientes:
 
 ## Librerías Necesarias
 
-Se requieren las siguientes librerías para realizar el análisis:
-
-- `pandas`: Para la manipulación y análisis de datos.
-- `numpy`: Para cálculos numéricos.
-- `matplotlib`: Para la visualización de datos.
-- `seaborn`: Para crear gráficos informativos y atractivos.
-- `scipy`: Para realizar pruebas estadísticas.
+- pandas, numpy, matplotlib, seaborn, scipy
 

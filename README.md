@@ -6,9 +6,9 @@ De una tienda en línea el departamento de marketing ha recopilado una lista de 
 
 ## Objetivos
 
-    - Comparar y explicar los cambios en la priorización entre los métodos ICE y RICE.
-    - Realizar análisis estadístico para encontrar la significancia en las diferencias entre los grupos.
-    - Tomar decisiones basadas en los resultados de la prueba.
+ - Comparar y explicar los cambios en la priorización entre los métodos ICE y RICE.
+ - Realizar análisis estadístico para encontrar la significancia en las diferencias entre los grupos.
+ - Tomar decisiones basadas en los resultados de la prueba.
 
 ## Estructura del Proyecto
 

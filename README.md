@@ -41,5 +41,5 @@ Los datasets utilizados son los siguientes:
 
 ## Librerías Necesarias
 
-- pandas, numpy, matplotlib, seaborn, scipy
+- pandas, datetime, numpy, matplotlib, seaborn, scipy
 
